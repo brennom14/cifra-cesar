@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background-color: rgb(142, 221, 184);
+  }
+        button {
+            width: 120px;
+            height: 35px;
+            border-radius: 25px;
+            background-color: #fff;
+            border-color: black;
+            margin-top: 1%;
+            }
+    .big {
+         width: 200px;
+         height: 40px;
+         font-family: arial;
+         font-size: 19px;
+                
+            }
+    input{
+        width: 500px;
+        height: 30px;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 28px;
+        background-color: #fff;
+        border-color: black;
+        border-radius: 2em;
+        text-align: center;
+    }
+    h1{
+        color:black;
+        font-family: 'Times New Roman';
+    }
+    span{
+        color: black;
+        font-family: arial;
+        font-size: 2em;
+    }
+    h2{
+        color: black;
+    }
